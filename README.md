@@ -27,7 +27,7 @@ public class LinearSearch {
       System.out.println();
       
       System.out.print("Enter a value: ");
-      key = scnr.nextInt();
+      key = scnr.nextInt(); 
       
       keyIndex = linearSearch(numbers, NUMBERS_SIZE, key);
       
