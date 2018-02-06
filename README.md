@@ -14,7 +14,7 @@ public class LinearSearch {
    
    public static void main(String [] args) {
       Scanner scnr = new Scanner(System.in);
-      int numbers [] = {1, 4, 9, 14, 19, 23, 28, 39, 44, 50, 66, 88};
+      int numbers [] = {1, 4, 9, 14, 19, 23, 28, 39, 44, 50, 66, 89};
       final int NUMBERS_SIZE = 12;
       int i = 0;
       int key = 0;
